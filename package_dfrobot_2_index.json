@@ -11,7 +11,7 @@
 
       "platforms": [
         {
-          "name": "Bluno M0 MainBoard & DFRduino M0 MainBoard",
+          "name": "Linkedsemi LE501X Boards",
           "architecture": "nucDuino",
           "version": "1.0.3",
           "category": "Contributed",
@@ -23,7 +23,7 @@
           "checksum": "SHA-256:dbe73e21180edef80a7659608a2449642fc7414d80bb1fda847b2372b2ea6c64",	  
           "size": "5119069",
           "boards": [
-            {"name": "Bluno M0 MainBoard"}
+            {"name": "Linkedsemi M5110-N1 EVK"}
           ],
           "toolsDependencies": [
             {
