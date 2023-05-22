@@ -1,19 +1,19 @@
 ﻿{
   "packages": [
     {
-      "name": "nucDuino",
-      "maintainer": "DFRobot",
-      "websiteURL": "http://www.dfrobot.com/",
-      "email": "ouki.wang@dfrobot.com",
+      "name": "Linkedsemi Arduino/",
+      "maintainer": "Linkedsemi",
+      "websiteURL": "https://github.com/wasdpkj/LE501X_Arduino-IDE-Support",
+      "email": "kjpan@linkedsemi.com",
       "help": {
-        "online": "http://www.dfrobot.com/"
+        "online": "https://docs.linkedsemi.com"
       },
 
       "platforms": [
         {
           "name": "Linkedsemi LE501X Boards",
-          "architecture": "nucDuino",
-          "version": "1.0.3",
+          "architecture": "le501x",
+          "version": "2.0.1",
           "category": "Contributed",
           "help": {
             "online": "http://www.dfrobot.com/"
